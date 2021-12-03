@@ -6,7 +6,7 @@ const HighlightedQuote = (props) => {
       <p>{props.text}</p>
       <figcaption>{props.author}</figcaption>
     </figure>
-  );
+  ); 
 };
 
 export default HighlightedQuote;
